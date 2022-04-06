@@ -2,13 +2,13 @@
 
 It is the python-keras implementation of the paper:  A Novel Multitemporal Deep Fusion Network (MDFN) for Short-Term Multitemporal HR Images Classification
 
-For more ore information, please see our published paper at [IEEE JSTARS](https://ieeexplore.ieee.org/document/9573468)
+For more information, please see our published paper at [IEEE JSTARS](https://ieeexplore.ieee.org/document/9573468)
 
 ![MDFN_framework](Images/MDFN.png)
 
 ## Prerequisites
 ```
-Window 10
+Windows 10
 Python 3.6
 CPU or NVIDIA GPU
 CUDA 9.0
