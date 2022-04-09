@@ -1,4 +1,4 @@
-# Multitemporal Deep Fusion Network (MDFN) for Short-Term Multitemporal HR Images Classification
+# MDFN for Short-Term Multitemporal HR Images Classification
 
 It is the python-keras implementation of the paper:  A Novel Multitemporal Deep Fusion Network (MDFN) for Short-Term Multitemporal HR Images Classification
 
